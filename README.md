@@ -1,6 +1,6 @@
 # Multiple-Object-Detection-YOLO
 
-Detecting multiple objects in a video using YOLO and OpenCV
+Object Detection on video streams and webcam footage using YOLO and OpenCV.
 
 ### Requirements:
 `numpy`, `argparse`, `imutils`, `time`, `cv2` , `os`
