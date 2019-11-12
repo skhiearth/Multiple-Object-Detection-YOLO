@@ -8,6 +8,7 @@ Detecting multiple objects in a video using YOLO and OpenCV
 ### Sample Usage:
 #### 1. To detect objects in a video from the disk; 
 use the `yolodetection.py` file
+
 Example (in the terminal): 
 
 `python yolodetection.py --input videoname.mp4 --output videoname.mp4 --yolo yolo-coco`
@@ -18,6 +19,7 @@ alt="Object Detection" width="400" height="300" border="10" /></a>
 
 #### 2. To detect objects in a webcam video; 
 use the `yolowebcam.py` file
+
 Example (in the terminal): 
 
 `python yolowebcam.py --yolo yolo-coco`
