@@ -1,6 +1,6 @@
 # Multiple-Object-Detection-YOLO
 
-Object Detection on video streams and webcam footage using YOLO and OpenCV.
+Object Detection on video streams and webcam footage using YOLOv3, a single stage detector trained on the COCO dataset, and OpenCV.
 
 ### Requirements:
 `numpy`, `argparse`, `imutils`, `time`, `cv2` , `os`
